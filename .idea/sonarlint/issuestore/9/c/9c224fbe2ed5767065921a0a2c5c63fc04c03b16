@@ -1,0 +1,10 @@
+
+?squid:S1148B"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+?squid:S1148"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Usquid:S4719-"9Replace charset name argument with StandardCharsets.UTF_8(™Õâ²øÿÿÿÿ
+gsquid:CommentedOutCodeLine@"<This block of commented-out lines of code should be removed.(ŸùÕ‹ÿÿÿÿÿ
+?squid:S11481"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+Asquid:S1181A"%Catch Exception instead of Throwable.(‡˜ÚÚøÿÿÿÿ
+T
+squid:S106."9Replace this use of System.out or System.err by a logger.(Ž’”Úüÿÿÿÿ
+Nsquid:S1135$"2Complete the task associated to this TODO comment.(¥ Žšüÿÿÿÿ

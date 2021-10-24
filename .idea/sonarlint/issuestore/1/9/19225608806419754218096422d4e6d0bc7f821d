@@ -1,0 +1,5 @@
+
+O
+squid:S106"9Replace this use of System.out or System.err by a logger.(©ÿû˜
+Csquid:S1444",Make this "public static client" field final(þ¸–º
+€"squid:ClassVariableVisibilityCheck"RMake client a static final constant or non-public and provide accessors if needed.(þ¸–º
